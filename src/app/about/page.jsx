@@ -82,7 +82,7 @@ const AboutPage = () => {
           alt=""
           className="w-full sm:w-[700px] h-auto mt-4 rounded-md shadow-md hover:scale-105 duration-300"
         />
-        <div className="bg-gray-800 p-6 mt-5 rounded-md shadow-md w-full sm:w-[800px] ">
+        <div className="bg-gray-800 p-6 mt-5 rounded-md shadow-md w-full sm:w-[800px]">
           <div className="text-white  text-md w-full sm:w-[700px] ">
             <p>
               Fee/ Reservation required
